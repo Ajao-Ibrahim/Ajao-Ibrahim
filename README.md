@@ -13,7 +13,7 @@ My personal journey in life has led me to develop a passion for cybersecurity, a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Ibrahim-Ajao/Detection-Lab/tree/main">Detection Lab</a>|
+| Phishing detection          | <a href="https://github.com/Ibrahim-Ajao/Phishing-Incident-Response-Simulation/blob/main/README.md">PHISHING INCIDENT RESPONSE SIMULATION</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
