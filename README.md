@@ -1,5 +1,5 @@
 
-## Hello, I'm Ibrahim Ajao
+## Hello, I'm Ajao Ibrahim
 
 <a href="https://www.linkedin.com/in/ibrahim-ajao/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
