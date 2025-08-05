@@ -7,7 +7,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My personal journey in life has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
@@ -52,7 +52,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/Ibrahim-Ajao/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/Ibrahim-Ajao/Phishing-Incident-Response-Simulation/blob/main/README.md">PHISHING INCIDENT RESPONSE SIMULATION</a>
+- <a href="https://github.com/Ibrahim-Ajao/Splunk-Sysmon-Log-Analysis/blob/main/README.md">SPLUNK-SYSMON LOG ANALYSIS</a>
+- <a href="https://github.com/Ibrahim-Ajao/Threat-Intelligence-Correlation-in-Splunk/blob/main/README.md">THREAT INTELLIGENT CORRELATION IN SPLUNK</a>
+- <a href="https://github.com/Ibrahim-Ajao/Wireshark-Network-Analysis-Lab/blob/main/README.md">WIRESHARK NETWORK ANALYSIS LAB</a>
+- <a href="https://github.com/Ibrahim-Ajao/Sysmon-MITRE-ATT-CK-Mapping/blob/main/README.md">SYSMON + MITRE ATT&CK DETECTION MAPPING</a>
+
 
 
