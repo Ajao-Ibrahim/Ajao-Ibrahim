@@ -21,24 +21,18 @@ My personal journey in life has led me to develop a passion for cybersecurity, a
 
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+| Tools                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Splunk               | <a href="https://github.com/Ibrahim-Ajao/Splunk-Sysmon-Log-Analysis/blob/main/README.md">SPLUNK-SYSMON LOG ANALYSIS</a>|
+| SYSMON               | <a href="https://github.com/Ibrahim-Ajao/Splunk-Sysmon-Log-Analysis/blob/main/README.md">SPLUNK-SYSMON LOG ANALYSIS</a>|
+| Wireshark            |<a href="https://github.com/Ibrahim-Ajao/Wireshark-Network-Analysis-Lab/blob/main/README.md">WIRESHARK NETWORK ANALYSIS LAB</a>|
+| Kali Linux           | <a href="https://github.com/Ibrahim-Ajao/Wireshark-Network-Analysis-Lab/blob/main/README.md">WIRESHARK NETWORK ANALYSIS LAB</a>|
+|MITRE ATT&CK Framework | <a href="https://github.com/Ibrahim-Ajao/Sysmon-MITRE-ATT-CK-Mapping/blob/main/README.md">SYSMON + MITRE ATT&CK DETECTION MAPPING</a>|
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+## Certificataion
 
-## Certifications
-<a href="https://www.credly.com/badges/e9583c7b-1df8-4b38-802e-2d89db42a799/public_url">Google Cybersecurity Professional Certificate</a>
-
+<a  href="https://www.credly.com/badges/e9583c7b-1df8-4b38-802e-2d89db42a799/public_url">Google Cybersecurity Professional Certificate</a>
 
 ## Projects
 - <a href="https://github.com/Ibrahim-Ajao/Phishing-Incident-Response-Simulation/blob/main/README.md">PHISHING INCIDENT RESPONSE SIMULATION</a>
