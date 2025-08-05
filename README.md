@@ -1,5 +1,5 @@
 
-Hello, I'm Ibrahim Ajao
+## Hello, I'm Ibrahim Ajao
 
 <a href="https://www.linkedin.com/in/ibrahim-ajao/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -37,13 +37,8 @@ My personal journey in life has led me to develop a passion for cybersecurity, a
 </div>
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<a href="https://www.credly.com/badges/e9583c7b-1df8-4b38-802e-2d89db42a799/public_url">Google Cybersecurity Professional Certificate</a>
+
 
 ## Projects
 - <a href="https://github.com/Ibrahim-Ajao/Phishing-Incident-Response-Simulation/blob/main/README.md">PHISHING INCIDENT RESPONSE SIMULATION</a>
