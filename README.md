@@ -32,7 +32,7 @@ My personal journey in life has led me to develop a passion for cybersecurity, a
 
 ## Certificataion
 
-<a  href="https://www.credly.com/badges/e9583c7b-1df8-4b38-802e-2d89db42a799/public_url">Google Cybersecurity Professional Certificate</a>
+- <a  href="https://www.credly.com/badges/e9583c7b-1df8-4b38-802e-2d89db42a799/public_url">Google Cybersecurity Professional Certificate</a>
 
 ## Projects
 - <a href="https://github.com/Ibrahim-Ajao/Phishing-Incident-Response-Simulation/blob/main/README.md">PHISHING INCIDENT RESPONSE SIMULATION</a>
