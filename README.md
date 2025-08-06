@@ -20,7 +20,7 @@ My personal journey in life has led me to develop a passion for cybersecurity, a
 | Analyzing .pcap files using Wireshark| <a href="https://github.com/Ibrahim-Ajao/Wireshark-Network-Analysis-Lab/blob/main/README.md">WIRESHARK NETWORK ANALYSIS LAB</a>|
 | Ingestion and correlation of external threat intel feeds with internal log data     | <a href="https://github.com/Ibrahim-Ajao/Threat-Intelligence-Correlation-in-Splunk/blob/main/README.md">THREAT INTELLIGENT CORRELATION IN SPLUNK</a>|
 | Mapping events to MITRE ATT&CK tactics and techniques       | <a href="https://github.com/Ibrahim-Ajao/Sysmon-MITRE-ATT-CK-Mapping/blob/main/README.md">SYSMON + MITRE ATT&CK DETECTION MAPPING</a>|
-| Python                                      | <a href="https://github.com/Ajao-Ibrahim/Python-SOC-Automation-For-IOC-Detection/blob/main/README.md">Python SOC Automation For IOC Detection</a>|
+| Python                                      | <a href="https://github.com/Ajao-Ibrahim/Python-SOC-Automation-For-IOC-Detection/blob/main/README.md">PYTHON SOC AUTOMATION FOR IOC DETECTION</a>|
 ---
 
 ## Tools
