@@ -34,7 +34,7 @@ My personal journey in life has led me to develop a passion for cybersecurity, a
 ---
 
 
-## Certificataion
+## Certification
 
 - <a  href="https://www.credly.com/badges/e9583c7b-1df8-4b38-802e-2d89db42a799/public_url">Google Cybersecurity Professional Certificate</a>
 ---
